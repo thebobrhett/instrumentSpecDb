@@ -1,0 +1,477 @@
+A
+{
+    TEXT-DECORATION: none
+}
+A IMG
+{
+    BORDER-TOP-WIDTH: 0px;
+    BORDER-LEFT-WIDTH: 0px;
+    BORDER-BOTTOM-WIDTH: 0px;
+    BORDER-RIGHT-WIDTH: 0px
+}
+H1
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 24px;
+    COLOR: darkblue
+}
+H2
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 14px;
+    COLOR: black
+}
+H3
+{
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    COLOR: midnightblue
+}
+H4
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    COLOR: black
+}
+H5
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    COLOR: gray
+}
+H6
+{
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    COLOR: black;
+    FONT-FAMILY: Arial
+}
+TABLE
+{
+    BORDER: none;
+    TABLE-LAYOUT: auto;
+}
+TH
+{
+    BORDER: none;
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    FONT-SIZE: 9pt;
+    PADDING-BOTTOM: 5px;
+    PADDING-TOP: 5px;
+    TEXT-ALIGN: center
+}
+TD
+{
+    BORDER: none;
+    PADDING-RIGHT: 0px;
+    PADDING-LEFT: 0px;
+    FONT-SIZE: 9pt;
+    PADDING-BOTTOM: 3px;
+    PADDING-TOP: 3px;
+    TEXT-ALIGN: center
+}
+INPUT
+{
+    FONT-SIZE: 10pt
+}
+BODY
+{
+    FONT-SIZE: 10pt;
+    FONT-FAMILY: verdana;
+    BACKGROUND-COLOR: beige
+}
+#savetd
+{
+    BORDER-RIGHT: thin groove;
+    PADDING-RIGHT: 0px;
+    BORDER-TOP: thin groove;
+    PADDING-LEFT: 0px;
+    FONT-SIZE: 12px;
+    PADDING-BOTTOM: 3px;
+    BORDER-LEFT: thin groove;
+    PADDING-TOP: 3px;
+    BORDER-BOTTOM: thin groove;
+    TEXT-ALIGN: center
+}
+td.savetd
+{
+    BORDER-RIGHT: thin groove;
+    PADDING-RIGHT: 0px;
+    BORDER-TOP: thin groove;
+    PADDING-LEFT: 0px;
+    FONT-SIZE: 12px;
+    PADDING-BOTTOM: 3px;
+    BORDER-LEFT: thin groove;
+    PADDING-TOP: 3px;
+    BORDER-BOTTOM: thin groove;
+    TEXT-ALIGN: center
+}
+#headertable
+{
+    BORDER-TOP-STYLE: none;
+    BORDER-RIGHT-STYLE: none;
+    BORDER-LEFT-STYLE: none;
+    BORDER-BOTTOM-STYLE: none
+}
+table.headertable
+{
+    BORDER-TOP-STYLE: none;
+    BORDER-RIGHT-STYLE: none;
+    BORDER-LEFT-STYLE: none;
+    BORDER-BOTTOM-STYLE: none
+}
+#headertd
+{
+    BORDER-TOP-STYLE: none;
+    BORDER-RIGHT-STYLE: none;
+    BORDER-LEFT-STYLE: none;
+    BORDER-BOTTOM-STYLE: none
+}
+td.headertd
+{
+    BORDER-TOP-STYLE: none;
+    BORDER-RIGHT-STYLE: none;
+    BORDER-LEFT-STYLE: none;
+    BORDER-BOTTOM-STYLE: none
+}
+#totaltd
+{
+    FONT-WEIGHT: bold
+}
+td.totaltd
+{
+    FONT-WEIGHT: bold
+}
+#smallth
+{
+    PADDING-RIGHT: 3px;
+    PADDING-LEFT: 3px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    PADDING-BOTTOM: 3px;
+    VERTICAL-ALIGN: bottom;
+    PADDING-TOP: 3px;
+    BACKGROUND-COLOR: #e7e7ab;
+    border-style: groove;
+    border-width: thin;
+    text-align: center
+}
+th.smallth
+{
+    PADDING-RIGHT: 3px;
+    PADDING-LEFT: 3px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 10px;
+    PADDING-BOTTOM: 3px;
+    VERTICAL-ALIGN: bottom;
+    PADDING-TOP: 3px;
+    BACKGROUND-COLOR: #e7e7ab;
+    border-style: groove;
+    border-width: thin;
+    text-align: center
+}
+#smalltd
+{
+    PADDING-RIGHT: 3px;
+    PADDING-LEFT: 3px;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    PADDING-BOTTOM: 3px;
+    PADDING-TOP: 3px;
+    border-style: groove;
+    border-width: thin;
+    text-align: center
+}
+td.smalltd
+{
+    PADDING-RIGHT: 3px;
+    PADDING-LEFT: 3px;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 10px;
+    PADDING-BOTTOM: 3px;
+    PADDING-TOP: 3px;
+    border-style: groove;
+    border-width: thin;
+    text-align: center
+}
+#mediumth
+{
+    PADDING-RIGHT: 3px;
+    PADDING-LEFT: 3px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 8pt;
+    PADDING-BOTTOM: 3px;
+    VERTICAL-ALIGN: bottom;
+    PADDING-TOP: 3px;
+    BACKGROUND-COLOR: #e7e7ab;
+    border-style: groove;
+    border-width: 1px;
+    text-align: center
+}
+th.mediumth
+{
+    PADDING-RIGHT: 3px;
+    PADDING-LEFT: 3px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 8pt;
+    PADDING-BOTTOM: 3px;
+    VERTICAL-ALIGN: bottom;
+    PADDING-TOP: 3px;
+    BACKGROUND-COLOR: #e7e7ab;
+    border-style: groove;
+    border-width: 1px;
+    text-align: center
+}
+#mediumtd
+{
+    PADDING-RIGHT: 3px;
+    PADDING-LEFT: 3px;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 8pt;
+    PADDING-BOTTOM: 3px;
+    PADDING-TOP: 3px;
+    border-style: groove;
+    border-width: 1px;
+    text-align: center
+}
+td.mediumtd
+{
+    PADDING-RIGHT: 3px;
+    PADDING-LEFT: 3px;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 8pt;
+    PADDING-BOTTOM: 3px;
+    PADDING-TOP: 3px;
+    border-style: groove;
+    border-width: 1px;
+    text-align: center
+}
+#reportth
+{
+    PADDING-RIGHT: 3px;
+    PADDING-LEFT: 3px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    PADDING-BOTTOM: 3px;
+    VERTICAL-ALIGN: bottom;
+    PADDING-TOP: 3px;
+    border_style: groove;
+    border_width: thin;
+    text_align: center
+}
+th.reportth
+{
+    PADDING-RIGHT: 3px;
+    PADDING-LEFT: 3px;
+    FONT-WEIGHT: bold;
+    FONT-SIZE: 12px;
+    PADDING-BOTTOM: 3px;
+    VERTICAL-ALIGN: bottom;
+    PADDING-TOP: 3px;
+    border_style: groove;
+    border_width: thin;
+    text_align: center
+}
+#reporttd
+{
+    PADDING-RIGHT: 3px;
+    PADDING-LEFT: 3px;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    PADDING-BOTTOM: 3px;
+    PADDING-TOP: 3px;
+    border_style: groove;
+    border_width: thin;
+    text_align: center
+}
+td.reporttd
+{
+    PADDING-RIGHT: 3px;
+    PADDING-LEFT: 3px;
+    FONT-WEIGHT: normal;
+    FONT-SIZE: 12px;
+    PADDING-BOTTOM: 3px;
+    PADDING-TOP: 3px;
+    border_style: groove;
+    border_width: thin;
+    text_align: center
+}
+#logo
+{
+    LEFT: 30px;
+    WIDTH: 140px;
+    POSITION: absolute;
+    TOP: 20px;
+    HEIGHT: 67px
+}
+#title
+{
+    LEFT: 200px;
+    OVERFLOW: hidden;
+    WIDTH: 560px;
+    POSITION: absolute;
+    TOP: 20px;
+    HEIGHT: 120px
+}
+#list
+{
+    LEFT: 20px;
+    WIDTH: 170px;
+    POSITION: absolute;
+    TOP: 120px;
+    HEIGHT: 150px
+}
+P.align-left
+{
+    FLOAT: left
+}
+.align-right
+{
+    FLOAT: right
+}
+.left	{ text-align: left; }
+
+.center     { text-align: center; }
+
+.right	{ text-align: right; }
+
+.top	{ vertical-align: top; }
+
+.middle	{ vertical-align: middle; }
+
+.bottom	{ vertical-align: bottom; }
+
+.bold	{ font-weight: bold; }
+
+.italic	{ font-style: italic; }
+
+.error	{ background-color: red; }
+
+.clear-left
+{
+    CLEAR: left
+}
+.clear-right
+{
+    CLEAR: right
+}
+@media print { .noprint {display: none; } }
+@media screen { .noscreen {display: none; } }
+ 
+/* the div that holds the date picker calendar */
+.dpDiv {
+	}
+ 
+ 
+/* the table (within the div) that holds the date picker calendar */
+.dpTable {
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: center;
+	color: #505050;
+	background-color: #E0E0E0;
+	border: 1px solid #AAAAAA;
+	}
+ 
+ 
+/* a table row that holds date numbers (either blank or 1-31) */
+.dpTR {
+	}
+ 
+ 
+/* the top table row that holds the month, year, and forward/backward buttons */
+.dpTitleTR {
+	}
+ 
+ 
+/* the second table row, that holds the names of days of the week (Mo, Tu, We, etc.) */
+.dpDayTR {
+	}
+ 
+ 
+/* the bottom table row, that has the "This Month" and "Close" buttons */
+.dpTodayButtonTR {
+	}
+ 
+ 
+/* a table cell that holds a date number (either blank or 1-31) */
+.dpTD {
+	border: 1px solid #ece9d8;
+	}
+ 
+ 
+/* a table cell that holds a highlighted day (usually either today's date or the current date field value) */
+.dpDayHighlightTD {
+	background-color: #CCCCCC;
+	border: 1px solid #AAAAAA;
+	}
+ 
+ 
+/* the date number table cell that the mouse pointer is currently over (you can use contrasting colors to make it apparent which cell is being hovered over) */
+.dpTDHover {
+	background-color: #aca998;
+	border: 1px solid #888888;
+	cursor: pointer;
+	color: red;
+	}
+ 
+ 
+/* the table cell that holds the name of the month and the year */
+.dpTitleTD {
+	}
+ 
+ 
+/* a table cell that holds one of the forward/backward buttons */
+.dpButtonTD {
+	}
+ 
+ 
+/* the table cell that holds the "This Month" or "Close" button at the bottom */
+.dpTodayButtonTD {
+	}
+ 
+ 
+/* a table cell that holds the names of days of the week (Mo, Tu, We, etc.) */
+.dpDayTD {
+	background-color: #ADADAD;
+	border: 1px solid #AAAAAA;
+	color: white;
+	}
+ 
+ 
+/* additional style information for the text that indicates the month and year */
+.dpTitleText {
+	font-size: 12px;
+	color: gray;
+	font-weight: bold;
+	}
+ 
+ 
+/* additional style information for the cell that holds a highlighted day (usually either today's date or the current date field value) */ 
+.dpDayHighlight {
+	color: 4060ff;
+	font-weight: bold;
+	}
+ 
+ 
+/* the forward/backward buttons at the top */
+.dpButton {
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: gray;
+	background: #d8e8ff;
+	font-weight: bold;
+	padding: 0px;
+	}
+ 
+ 
+/* the "This Month" and "Close" buttons at the bottom */
+.dpTodayButton {
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: gray;
+	background: #d8e8ff;
+	font-weight: bold;
+	}
+ 

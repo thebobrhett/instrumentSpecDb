@@ -1,0 +1,19 @@
+body  { background-color:dddddd; font-family:calibri; font-size:10; }
+
+a     { text-decoration:none; }
+a img { border-width:0; }
+img   { border-width:0; }
+
+h1     { font-weight:bold; font-size:14; color:darkblue; }
+h2     { font-weight:bold; font-size:12; color:black; }
+h3     { font-weight:normal; font-size:12; color:black; }
+h4     { font-weight:normal; font-size:10; color:black; }
+h5     { font-weight:normal; font-size:8; color:gray; }
+h6     { font-family:Arial; font-weight:normal; font-size:12; color:black; }
+
+#title { position:absolute; left:10px; top:30px; height:30px; width:320px; text-align:left; font-weight:bold; font-size:18; color:darkblue; }
+#logo  { position:absolute; left:320px; top:10px; height:30px; width:320px; text-align:right; }
+#header-left { position:absolute; left:10px; top:60px; height:60px; width:320px; text-align:left; font-weight:bold; font-size:10; color:black; border-style:solid; border-width:thin; }
+#header-right { position:absolute; left:328px; top:60px; height:60px; width:320px; text-align:left; font-weight:bold; font-size:10; color:black; border-style:solid; border-width:thin; }
+#column-left
+#column-right
